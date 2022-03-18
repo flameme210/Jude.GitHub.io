@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Have a good time ~
 
-You can use the [editor on GitHub](https://github.com/flameme210/Jude.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我是路上游走的魂 你是嗅到我的人
 
 ### Markdown
 
